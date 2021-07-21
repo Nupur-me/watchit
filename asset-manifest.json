@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/watchit/static/css/main.fe6f2647.chunk.css",
+    "main.js": "/watchit/static/js/main.6b14dc6c.chunk.js",
+    "main.js.map": "/watchit/static/js/main.6b14dc6c.chunk.js.map",
+    "runtime-main.js": "/watchit/static/js/runtime-main.a6ed4dae.js",
+    "runtime-main.js.map": "/watchit/static/js/runtime-main.a6ed4dae.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/watchit/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.e8afeec1.chunk.js": "/watchit/static/js/2.e8afeec1.chunk.js",
+    "static/js/2.e8afeec1.chunk.js.map": "/watchit/static/js/2.e8afeec1.chunk.js.map",
+    "index.html": "/watchit/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/watchit/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.fe6f2647.chunk.css.map": "/watchit/static/css/main.fe6f2647.chunk.css.map",
+    "static/js/2.e8afeec1.chunk.js.LICENSE.txt": "/watchit/static/js/2.e8afeec1.chunk.js.LICENSE.txt",
+    "static/media/header.94169053.jpg": "/watchit/static/media/header.94169053.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6ed4dae.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.e8afeec1.chunk.js",
+    "static/css/main.fe6f2647.chunk.css",
+    "static/js/main.6b14dc6c.chunk.js"
+  ]
+}
