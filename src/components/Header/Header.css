@@ -1,0 +1,23 @@
+.header{
+   width:100%;
+  cursor: pointer;
+  position: fixed;
+  display:flex;
+  justify-content: center;
+  background:black;
+  padding-bottom: 15px;
+  box-shadow:  0px 1px 9px gray;
+  z-index: 100;
+}
+
+.imgg{
+  padding-top:15px;
+  height:70px;
+}
+
+@media screen and (max-width:1000px){
+  .imgg{
+   height:50px;
+
+  }
+}

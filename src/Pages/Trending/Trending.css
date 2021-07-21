@@ -1,0 +1,13 @@
+.trending{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+@media screen and (max-width:1000px){
+  .pageTitle{
+  padding-bottom: 15px;
+  padding-top: 30px;
+
+  }
+}
