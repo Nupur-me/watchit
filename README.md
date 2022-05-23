@@ -9,5 +9,5 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
   
-  # Screenshoot
+  # Screenshot
   ![watchit](https://user-images.githubusercontent.com/55540307/169818843-25fd6380-b5a1-4984-948c-473fa61d267b.png)
